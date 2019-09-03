@@ -1,0 +1,26 @@
+
+.red{
+	text-decoration: red;
+}
+.body{
+	font-family: tahoma;
+}
+.height{
+	min-height: 100vh;
+}
+.title-underline{
+	width: 200px;
+	height: 10px;
+	margin: 0px auto;
+ /* background: blue !important;*/
+}
+/*.changecolor{
+
+}
+.changecolor:hover {
+  opacity: 0.5;
+  background: red;
+}*/
+.height-80{
+  min-height: 60vh;
+}
